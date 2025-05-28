@@ -17,8 +17,8 @@ main:
   - title: "项目"
     url: /projects/    
     
-  - title: "学生信息"
-    url: /groups/
+  #- title: "学生信息"
+   # url: /groups/  
         
   #- title: "学生信息"
 
