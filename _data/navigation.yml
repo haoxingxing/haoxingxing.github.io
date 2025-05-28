@@ -11,17 +11,19 @@ main:
   - title: "论文著作"
     url: /publications/
 
-  - title: "项目"
-    url: /talks/    
+  - title: "竞赛获奖"
+    url: /competitions/    
 
-  - title: "竞赛"
-    url: /teaching/    
+  - title: "项目/审稿"
+    url: /projects/    
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
-        
   - title: "学生信息"
-    url: /year-archive/
+    url: /groups/
+        
+  #- title: "学生信息"
+
+
+    #url: /year-archive/  
     
   #- title: "CV"
   #  url: /cv/
