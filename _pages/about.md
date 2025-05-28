@@ -33,3 +33,10 @@ redirect_from:
 招生专业
 ------
 软件工程（专硕085405、学硕083500）
+
+
+------
+- 恭喜王浩帆论文被Applied Soft Computing接收
+- 恭喜赵淑琳论文被Swarm and Evolutionary Computation接收
+- 马亮获2024年国奖
+- 恭喜王浩帆论文被Swarm and Evolutionary Computation接收
