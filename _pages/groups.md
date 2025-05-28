@@ -27,3 +27,10 @@ author_profile: true
 
 | 姓名 | 年级 | 毕业去向 |
 | :----: | :----: | :----: |
+|张瑞邦|2022级 硕士研究生|北京小米|
+|马亮|2022级 硕士研究生||
+|何前宝|2022级 硕士研究生（导师：[陈莉教授](https://ist.nwu.edu.cn/info/1017/1269.htm)）||
+|王浩帆|2022级 硕士研究生（导师：[陈莉教授](https://ist.nwu.edu.cn/info/1017/1269.htm)）||
+|赵淑琳|2022级 硕士研究生（导师：[陈莉教授](https://ist.nwu.edu.cn/info/1017/1269.htm)）||
+|钱永康|2022级 硕士研究生（导师：[陈莉教授](https://ist.nwu.edu.cn/info/1017/1269.htm)）||
+|[刘伟](https://www.universiteitleiden.nl/medewerkers/wei-liu#tab-1)|2020级 硕士研究生（导师：[陈莉教授](https://ist.nwu.edu.cn/info/1017/1269.htm)）|荷兰莱顿大学|
