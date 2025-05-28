@@ -9,7 +9,8 @@ author_profile: true
 
 | |
 | :---- |
-|1. Haofan Wang,Li Chen※, **Xingxing Hao※**, Tingfeng Yu, Yongkang Qian,Ruoxi Yang, and Wei Liu. “[Meta-knowledge-assisted Sampling with Variable Sorting for Large-scale Multi-objective Optimization]( )”, **Applied Soft Computing**. (2025 已录用). [CODE click HERE]( ) |
+|[1]. Haofan Wang,Li Chen※, **Xingxing Hao※**, Tingfeng Yu, Yongkang Qian,Ruoxi Yang, and Wei Liu. “[Meta-knowledge-assisted Sampling with Variable Sorting for Large-scale Multi-objective Optimization]( )”, **Applied Soft Computing**. (2025 已录用). [CODE click HERE]( ) |
+
 |2. Wei Zhou※, Weiwei Jin, Dekui Wang, **Xingxing Hao**, Yongxiang Yu, Caiwen Ma. “[Exploring Multi-Scale and Cross-Type Features in 3D Point Cloud Learning with CCMNet](https://www.sciencedirect.com/science/article/pii/S0957417425005822)”, **Expert Systems With Applications**, 2025, 274:126960. [CODE click HERE]( ) |
 |3. Shulin Zhao, **Xingxing Hao※**, Li Chen, Tingfeng Yu, Xingyu Li, and Wei Liu. "[Two-stage bidirectional coevolutionary algorithm for constrained multi-objective optimization](https://www.sciencedirect.com/science/article/pii/S2210650224003225)",**Swarm and Evolutionary Computation**, 2025, 92: 101784.|
 |4. Haofang Wang, Li Chen※, **Xingxing Hao※**, Rong Qu, Wei Zhou, Dekui Wang, and Wei Liu. “[Learning-guided cross-sampling for large-scale evolutionary multi-objective optimization](https://www.sciencedirect.com/science/article/pii/S2210650224003018 )”, **Swarm and Evolutionary Computation**, 2024, 91: 101763.|
