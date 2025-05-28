@@ -20,8 +20,57 @@ author_profile: true
 |Wei Liu, Li Chen※, **Xingxing Hao※**, Wei Zhou, Xin Cao, and Fei Xie. "[Offspring regeneration method based on bi-level sampling for large-scale evolutionary multi-objective optimization](https://www.sciencedirect.com/science/article/pii/S2210650222001201)", **Swarm and Evolutionary Computation**, 2022, 76: 101152.|
 |Dekui Wang, Jun Feng, Wei Zhou, **Xingxing Hao**, Xiaodan Zhang. "[FCRoute: A fast FPGA connection router using soft routing-space pruning algorithm](https://ieeexplore.ieee.org/abstract/document/9816052)", **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**, 2022, 42(3), pp.887-899.|
 |Wei Zhou※, **Xingxing Hao※**, Jin Cui, Yongxiang Yu, Xin Cao※, and Arjan Kuijper. “[A self-adaptive learning method for motion blur kernel estimation of the single image](https://www.sciencedirect.com/science/article/pii/S0030402621015849)”, **Optik**, 2021, 248: 168023.|
-|Baihao Qiao, Jing Liu, and **Xingxing Hao**|, "[A multi-objective differential evolution algorithm and a constraint handling mechanism based on variables proportion for dynamic economic emission dispatch problems](https://www.sciencedirect.com/science/article/pii/S1568494621003422)", **Applied Soft Computing**, 2021,108:107419.|
+|Baihao Qiao, Jing Liu, and **Xingxing Hao**, "[A multi-objective differential evolution algorithm and a constraint handling mechanism based on variables proportion for dynamic economic emission dispatch problems](https://www.sciencedirect.com/science/article/pii/S1568494621003422)", **Applied Soft Computing**, 2021,108:107419.|
 |Kai Wu, **Xingxing Hao※**, Jing Liu, Penghui Liu, and Fang Shen. "[Online reconstruction of complex networks from streaming data](https://ieeexplore.ieee.org/abstract/document/9248610)", **IEEE Transactions on Cybernetics**, 2020, 52(6), pp.5136-5147.|
+|Kai Wu, Jing Liu, **Xingxing Hao**, Penghui Liu, and Fang Shen. "[An evolutionary multiobjective framework for complex network reconstruction using community structure](https://ieeexplore.ieee.org/abstract/document/9180296)", **IEEE Transactions on Evolutionary Computation**, 2020, 25(2), pp.247-261.|
+|**Xingxing Hao**, Rong Qu※, and Jing Liu. "[A unified framework of graph-based evolutionary multitasking hyper-heuristic](https://ieeexplore.ieee.org/abstract/document/9084121)", **IEEE Transactions on Evolutionary Computation**, 2020, 25(1), pp.35-47.|
+|**Xingxing Hao**, Jing Liu※, Xiaoxiao Yuan, Xianglong Tang,and  Zhangtao Li. "[A moving block sequence-based evolutionary algorithm for resource-constrained project scheduling problems]"(https://www.inderscienceonline.com/doi/abs/10.1504/IJBIC.2019.101631), **International Journal of Bio-Inspired Computation**, 2019, 14(2), pp.85-102.|
+|**Xingxing Hao**, Jing Liu. "[A multiagent evolutionary algorithm with direct and indirect combined representation for constraint satisfaction problems](https://link.springer.com/article/10.1007/s00500-015-1815-1)", **Soft Computing**, 2017, 21, pp.781-793.|
+|Xianglong Tang, Jing Liu, **Xingxing Hao**. "[Mitigate cascading failures on networks using a memetic algorithm]()", **Scientific Reports**, 2016, 6(1):38713.|
+|**Xingxing Hao**, Hui Zhao, and Jing Liu. "[Multifocus color image sequence fusion based on mean shift segmentation](https://opg.optica.org/ao/abstract.cfm?uri=ao-54-30-8982)", **Applied Optics**, 2015, 54(30):8982-8989.|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
