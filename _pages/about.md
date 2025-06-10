@@ -28,20 +28,21 @@ redirect_from:
 
 研究方向
 ------
-多目标优化、单目标优化、多任务优化、群体智能、演化优化、组合优化、超启发式优化、智能算法设计、强化学习。
+多目标优化、单目标优化、多任务优化、群体智能、演化优化、组合优化、超启发式优化、智能算法设计、强化学习
 
 招生专业
 ------
 - 软件工程（专硕085405、学硕083500）
 - 符合以下要求者优先考虑
   - 熟悉并在进化计算、群体智能优化或其他研究方向上进行过实践
-  - 熟悉Python、Matlab编程语言
+  - 熟悉Python、Matlab、C++等编程语言
   - 能流利读写英文
-  - 参加过互联网+、电子设计、程序设计、软件设计、计算机设计等学科竞赛，并获得省级以上奖励
+  - 参加过互联网+、电子设计、程序设计、软件设计、计算机设计等学科竞赛，并获得过省级以上奖励
+
+亮点事件
 ------
 - 恭喜赵淑琳、马亮被评为[西北大学2025届优秀毕业生](https://www.nwu.edu.cn/info/1200/40892.htm)
 - 恭喜王浩帆论文被[Applied Soft Computing](https://haoxingxing.github.io/publications/)接收
 - 恭喜赵淑琳论文被[Swarm and Evolutionary Computation](https://haoxingxing.github.io/publications/)接收
-
 - 马亮获2024年国奖
 - 恭喜王浩帆论文被[Swarm and Evolutionary Computation](https://www.sciencedirect.com/science/article/pii/S2210650224003018)接收
