@@ -36,7 +36,9 @@ redirect_from:
 
 
 ------
-- 恭喜王浩帆论文被Applied Soft Computing接收
-- 恭喜赵淑琳论文被Swarm and Evolutionary Computation接收
+- 恭喜赵淑琳、马亮被评为[西北大学2025届优秀毕业生](https://www.nwu.edu.cn/info/1200/40892.htm)
+- 恭喜王浩帆论文被[Applied Soft Computing](https://haoxingxing.github.io/publications/)接收
+- 恭喜赵淑琳论文被[Swarm and Evolutionary Computation](https://haoxingxing.github.io/publications/)接收
+
 - 马亮获2024年国奖
-- 恭喜王浩帆论文被Swarm and Evolutionary Computation接收
+- 恭喜王浩帆论文被[Swarm and Evolutionary Computation](https://www.sciencedirect.com/science/article/pii/S2210650224003018)接收
