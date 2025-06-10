@@ -7,6 +7,7 @@ author_profile: true
 
 |竞赛名称|项目名称|获奖|成员|
 |  :----:  |:----:  |:----:  |:----:  |
+|2025ICPC陕西省赛||银奖|Junjie An, Hongye Jiang, Shuntian Gu|
 |第十二届大学生光电设计竞赛|小车智配—高效配送的最后0.5公里|西北赛区二等奖|吴子鸣 杨明宇|
 |2024年美国大学生数学建模竞赛||Honorable Mention|Xianhong Chen, Chenyang Gong, Linyu Sha|
 |2025年度西北大学信息科学与技术学院大学生创新训练计划项目|基于图生成与深度学习的古汉字识别与生成工具|省级优秀|韩艺豪 凌春燕|
