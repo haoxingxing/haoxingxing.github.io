@@ -20,8 +20,8 @@ main:
   #- title: "学生信息"
    # url: /groups/  
         
-  #- title: "学生信息"
-
+  - title: "招生信息"
+    url: /students/
 
     #url: /year-archive/  
     
