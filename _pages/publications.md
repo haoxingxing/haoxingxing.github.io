@@ -9,8 +9,8 @@ author_profile: true
 
 | |
 | :---- |
-|Haofan Wang,Li Chen※, **Xingxing Hao※**, Tingfeng Yu, Yongkang Qian,Ruoxi Yang, and Wei Liu. “[Meta-knowledge-assisted Sampling with Variable Sorting for Large-scale Multi-objective Optimization]( )”, **Applied Soft Computing**. (2025 已录用). [CODE click HERE]( )|
-|Wei Zhou※, Weiwei Jin, Dekui Wang, **Xingxing Hao**, Yongxiang Yu, Caiwen Ma. “[Exploring Multi-Scale and Cross-Type Features in 3D Point Cloud Learning with CCMNet](https://www.sciencedirect.com/science/article/pii/S0957417425005822)”, **Expert Systems With Applications**, 2025, 274:126960. [CODE click HERE]( ) |
+|Haofan Wang,Li Chen※, **Xingxing Hao※**, Tingfeng Yu, Yongkang Qian,Ruoxi Yang, and Wei Liu. “[Meta-knowledge-assisted Sampling with Variable Sorting for Large-scale Multi-objective Optimization](https://www.sciencedirect.com/science/article/abs/pii/S1568494625006970 )”, **Applied Soft Computing**, 2025,181:113386|
+|Wei Zhou※, Weiwei Jin, Dekui Wang, **Xingxing Hao**, Yongxiang Yu, Caiwen Ma. “[Exploring Multi-Scale and Cross-Type Features in 3D Point Cloud Learning with CCMNet](https://www.sciencedirect.com/science/article/pii/S0957417425005822)”, **Expert Systems With Applications**, 2025, 274:126960.|
 |Shulin Zhao, **Xingxing Hao※**, Li Chen, Tingfeng Yu, Xingyu Li, and Wei Liu. "[Two-stage bidirectional coevolutionary algorithm for constrained multi-objective optimization](https://www.sciencedirect.com/science/article/pii/S2210650224003225)",**Swarm and Evolutionary Computation**, 2025, 92: 101784.|
 |Haofang Wang, Li Chen※, **Xingxing Hao※**, Rong Qu, Wei Zhou, Dekui Wang, and Wei Liu. “[Learning-guided cross-sampling for large-scale evolutionary multi-objective optimization](https://www.sciencedirect.com/science/article/pii/S2210650224003018 )”, **Swarm and Evolutionary Computation**, 2024, 91: 101763.|
 |Liang Ma, **Xingxing Hao※**, Wei Zhou, Qianbao He, Ruibang Zhang, and Li Chen. “[A hybrid neural combinatorial optimization framework assisted by automated algorithm design](https://link.springer.com/article/10.1007/s40747-024-01600-2)”, **Complex & Intelligent Systems**, 2024, 10(6), pp.8233–8247|
