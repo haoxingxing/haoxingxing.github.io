@@ -9,6 +9,7 @@ author_profile: true
 
 | |
 | :---- |
+|Xin Cao, Linrong Ye, Xinxin Han, Jia Zhang, **Xingxing Hao**, Linzhi Su & Kang Li※. "[Self-supervised learning via disentangled representation and self-distillation for 3D terracotta warriors](https://www.nature.com/articles/s40494-025-02057-3)". **npj Heritage Science**,2025, 13:506.|
 |Bianbian Yang, Yiting He, Nannan Cai, Yi Chen※, Huangjian Yi, **Xingxing Hao※**, Chengyi Gao and Xin Cao※. "[Adaptive k-sparse constrained dictionary learning strategy for bioluminescence tomography reconstruction](https://iopscience.iop.org/article/10.1088/1361-6560/ae0c51)". **Physics in Medicine & Biology**,2025, 70:205010.|
 |Yiting He, Bianbian Yang, Nannan Cai, Yi Chen, Yifan Wang, Huangjian Yi, **Xingxing Hao**, Chengyi Gao, and Xin Cao. "[Cone-beam X-ray luminescence computed tomography via Laplacian scale mixture prior-driven variational Bayesian method](https://opg.optica.org/oe/abstract.cfm?doi=10.1364/OE.572142)". **Optics Express**,2025, Vol. 33, Issue 20, pp. 42909-42927.|
 |Yaoyao Du, Li Chen※, **Xingxing Hao※**. "[EViT-Net: An Efficient Vision Transformer-Inspired Network for Enhanced Multi-Scale Remote Sensing Image Features](https://www.sciencedirect.com/science/article/pii/S095741742502740X)". **Expert Systems with Applications**,2026, 296:129123|
