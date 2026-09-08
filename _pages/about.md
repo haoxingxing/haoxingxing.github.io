@@ -25,6 +25,7 @@ redirect_from:
 
 亮点事件
 ------
+- 恭喜王婷论文被[Expert System and Application](https://haoxingxing.github.io/publications/)接收
 - 恭喜赵淑琳、马亮被评为[西北大学2025届优秀毕业生](https://www.nwu.edu.cn/info/1200/40892.htm)
 - 恭喜王浩帆论文被[Applied Soft Computing](https://haoxingxing.github.io/publications/)接收
 - 恭喜赵淑琳论文被[Swarm and Evolutionary Computation](https://haoxingxing.github.io/publications/)接收
